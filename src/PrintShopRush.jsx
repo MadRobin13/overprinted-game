@@ -405,7 +405,7 @@ export default function PrintShopRush() {
           <div className="flex justify-center mb-3 sm:mb-4">
             <Printer className="w-16 h-16 sm:w-20 sm:h-20 text-blue-500" />
           </div>
-          <h1 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-3 sm:mb-4">Print Shop Rush</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-3 sm:mb-4">OverPrinted!</h1>
           <p className="text-sm sm:text-base text-slate-600 mb-4 sm:mb-6">
             Run a 3D printing shop! Choose the right filament and color to match customer requirements before they get angry!
           </p>
